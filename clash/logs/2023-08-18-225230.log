@@ -1,0 +1,22 @@
+22:52:30 INF [API] listening addr=127.0.0.1:33357
+22:52:30 INF [Inbound] Mixed(http+socks) listening addr=127.0.0.1:7890
+22:52:30 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:32998 rAddr=api.github.com:443 proxy=DIRECT
+22:52:30 INF [Config] initial compatible provider name=🐟 漏网之鱼
+22:52:30 INF [Config] initial compatible provider name=☁️ Cloudflare
+22:52:30 INF [Config] initial compatible provider name=📺 动画疯
+22:52:30 INF [Config] initial compatible provider name=🎮 Steam 商店/社区
+22:52:30 INF [Config] initial compatible provider name=🌏 爱奇艺&哔哩哔哩
+22:52:30 INF [Config] initial compatible provider name=🔰 选择节点
+22:52:30 INF [Config] initial compatible provider name=🎮 Steam 登录/下载
+22:52:30 INF [Config] initial compatible provider name=🇨🇳 国内网站
+22:52:30 INF [Config] initial compatible provider name=🛑 拦截广告
+23:54:30 WRN [TCP] dial failed error=g05.us01-ae5.entry.hsrtd.club:20013 connect error: all DNS requests failed, first error: dial tcp4 1.1.1.1:853: connect: network is unreachable proxy=🐟 漏网之鱼 lAddr=127.0.0.1:48594 rAddr=aur.archlinux.org:443 rule=DomainKeyword rulePayload=.
+23:54:30 INF [Config] initial compatible provider name=🎮 Steam 登录/下载
+23:54:30 INF [Config] initial compatible provider name=🔰 选择节点
+23:54:30 INF [Config] initial compatible provider name=🐟 漏网之鱼
+23:54:30 INF [Config] initial compatible provider name=🎮 Steam 商店/社区
+23:54:30 INF [Config] initial compatible provider name=🇨🇳 国内网站
+23:54:30 INF [Config] initial compatible provider name=☁️ Cloudflare
+23:54:30 INF [Config] initial compatible provider name=🛑 拦截广告
+23:54:30 INF [Config] initial compatible provider name=🌏 爱奇艺&哔哩哔哩
+23:54:30 INF [Config] initial compatible provider name=📺 动画疯

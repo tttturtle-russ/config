@@ -1,0 +1,38 @@
+14:06:14 INF [API] listening addr=127.0.0.1:41077
+14:06:14 INF [Inbound] Mixed(http+socks) listening addr=127.0.0.1:7890
+14:06:14 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:48382 rAddr=api.github.com:443 proxy=DIRECT
+14:06:14 INF [Config] initial compatible provider name=🌏 爱奇艺&哔哩哔哩
+14:06:14 INF [Config] initial compatible provider name=🔰 选择节点
+14:06:14 INF [Config] initial compatible provider name=🐟 漏网之鱼
+14:06:14 INF [Config] initial compatible provider name=🎮 Steam 商店/社区
+14:06:14 INF [Config] initial compatible provider name=☁️ Cloudflare
+14:06:14 INF [Config] initial compatible provider name=🇨🇳 国内网站
+14:06:14 INF [Config] initial compatible provider name=🎮 Steam 登录/下载
+14:06:14 INF [Config] initial compatible provider name=🛑 拦截广告
+14:06:14 INF [Config] initial compatible provider name=📺 动画疯
+14:06:20 INF [TCP] connected lAddr=127.0.0.1:48420 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:06:20 INF [TCP] connected lAddr=127.0.0.1:48392 rAddr=accounts.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:06:20 INF [TCP] connected lAddr=127.0.0.1:48404 rAddr=www.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:06:20 INF [TCP] connected lAddr=127.0.0.1:48432 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:06:20 INF [TCP] connected lAddr=127.0.0.1:48440 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:06:20 INF [TCP] connected lAddr=127.0.0.1:48446 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:06:21 INF [TCP] connected lAddr=127.0.0.1:48456 rAddr=www.google.com.hk:443 mode=rule rule=DomainSuffix(hk) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:06:21 INF [TCP] connected lAddr=127.0.0.1:48468 rAddr=history.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:06:21 INF [TCP] connected lAddr=127.0.0.1:48386 rAddr=clientservices.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:06:21 INF [TCP] connected lAddr=127.0.0.1:48476 rAddr=clients4.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:06:21 INF [TCP] connected lAddr=127.0.0.1:48482 rAddr=www.google.com.hk:443 mode=rule rule=DomainSuffix(hk) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:06:22 INF [TCP] connected lAddr=127.0.0.1:48498 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:06:22 INF [TCP] connected lAddr=127.0.0.1:48528 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:06:22 INF [TCP] connected lAddr=127.0.0.1:48514 rAddr=mtalk.google.com:5228 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:06:22 INF [TCP] connected lAddr=127.0.0.1:48542 rAddr=clients4.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:06:23 INF [TCP] connected lAddr=127.0.0.1:48548 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:06:23 INF [TCP] connected lAddr=127.0.0.1:48564 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:06:25 INF [TCP] connected lAddr=127.0.0.1:43648 rAddr=www.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:06:25 INF [TCP] connected lAddr=127.0.0.1:43634 rAddr=encrypted-tbn0.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:06:25 INF [TCP] connected lAddr=127.0.0.1:43664 rAddr=www.google.cn:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:06:25 INF [TCP] connected lAddr=127.0.0.1:43672 rAddr=cloudsearch.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:06:26 INF [TCP] connected lAddr=127.0.0.1:43674 rAddr=cloudsearch.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:06:26 INF [TCP] connected lAddr=127.0.0.1:43682 rAddr=ogs.google.com.hk:443 mode=rule rule=DomainSuffix(hk) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:06:27 INF [TCP] connected lAddr=127.0.0.1:43700 rAddr=ssl.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:06:27 INF [TCP] connected lAddr=127.0.0.1:43688 rAddr=www.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:06:32 INF [TCP] connected lAddr=127.0.0.1:43708 rAddr=optimizationguide-pa.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]

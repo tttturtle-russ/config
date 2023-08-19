@@ -1,0 +1,58 @@
+14:10:48 INF [API] listening addr=127.0.0.1:39087
+14:10:48 INF [Inbound] Mixed(http+socks) listening addr=127.0.0.1:7890
+14:10:48 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:38714 rAddr=api.github.com:443 proxy=DIRECT
+14:10:48 INF [Config] initial compatible provider name=📺 动画疯
+14:10:48 INF [Config] initial compatible provider name=🎮 Steam 登录/下载
+14:10:48 INF [Config] initial compatible provider name=☁️ Cloudflare
+14:10:48 INF [Config] initial compatible provider name=🎮 Steam 商店/社区
+14:10:48 INF [Config] initial compatible provider name=🌏 爱奇艺&哔哩哔哩
+14:10:48 INF [Config] initial compatible provider name=🇨🇳 国内网站
+14:10:48 INF [Config] initial compatible provider name=🛑 拦截广告
+14:10:48 INF [Config] initial compatible provider name=🔰 选择节点
+14:10:48 INF [Config] initial compatible provider name=🐟 漏网之鱼
+14:10:50 INF [TCP] connected lAddr=127.0.0.1:38730 rAddr=clientservices.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:10:50 INF [TCP] connected lAddr=127.0.0.1:38734 rAddr=accounts.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:10:50 INF [TCP] connected lAddr=127.0.0.1:59620 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:10:50 INF [TCP] connected lAddr=127.0.0.1:59636 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:10:51 INF [TCP] connected lAddr=127.0.0.1:59646 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:10:51 INF [TCP] connected lAddr=127.0.0.1:59652 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:10:51 INF [TCP] connected lAddr=127.0.0.1:59660 rAddr=www.google.com.hk:443 mode=rule rule=DomainSuffix(hk) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:10:51 INF [TCP] connected lAddr=127.0.0.1:59672 rAddr=www.google.com.hk:443 mode=rule rule=DomainSuffix(hk) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:10:53 INF [TCP] connected lAddr=127.0.0.1:59688 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:10:53 INF [TCP] connected lAddr=127.0.0.1:59712 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:10:53 INF [TCP] connected lAddr=127.0.0.1:59700 rAddr=mtalk.google.com:5228 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:11:03 INF [TCP] connected lAddr=127.0.0.1:40084 rAddr=optimizationguide-pa.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:11:03 INF [TCP] connected lAddr=127.0.0.1:40098 rAddr=aur.archlinux.org:443 mode=rule rule=DomainKeyword(.) proxy=🐟 漏网之鱼[🇺🇲 美国A01]
+14:11:07 INF [TCP] connected lAddr=127.0.0.1:40106 rAddr=download.jetbrains.com:443 mode=rule rule=DomainKeyword(.) proxy=🐟 漏网之鱼[🇺🇲 美国A01]
+14:11:08 INF [TCP] connected lAddr=127.0.0.1:40112 rAddr=download-cdn.jetbrains.com:443 mode=rule rule=DomainKeyword(.) proxy=🐟 漏网之鱼[🇺🇲 美国A01]
+14:11:50 INF [TCP] connected lAddr=127.0.0.1:42928 rAddr=clientservices.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:11:50 INF [TCP] connected lAddr=127.0.0.1:42956 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:11:50 INF [TCP] connected lAddr=127.0.0.1:42940 rAddr=clients4.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:12:45 INF [TCP] connected lAddr=127.0.0.1:41388 rAddr=api.github.com:443 mode=rule rule=DomainKeyword(github) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:12:52 INF [TCP] connected lAddr=127.0.0.1:46296 rAddr=www.google.cn:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:12:53 INF [TCP] connected lAddr=127.0.0.1:46306 rAddr=copilot-proxy.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:12:54 INF [TCP] connected lAddr=127.0.0.1:46320 rAddr=copilot-proxy.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:13:00 INF [TCP] connected lAddr=127.0.0.1:46328 rAddr=copilot-telemetry.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:13:04 INF [TCP] connected lAddr=127.0.0.1:56698 rAddr=copilot-proxy.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:13:08 INF [TCP] connected lAddr=127.0.0.1:56706 rAddr=copilot-telemetry.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:13:10 INF [TCP] connected lAddr=127.0.0.1:44186 rAddr=copilot-proxy.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:13:10 INF [TCP] connected lAddr=127.0.0.1:44200 rAddr=copilot-proxy.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:13:11 INF [TCP] connected lAddr=127.0.0.1:44202 rAddr=copilot-proxy.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:13:11 INF [TCP] connected lAddr=127.0.0.1:44214 rAddr=copilot-proxy.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:13:14 INF [TCP] connected lAddr=127.0.0.1:44216 rAddr=copilot-proxy.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:13:18 INF [TCP] connected lAddr=127.0.0.1:44218 rAddr=copilot-telemetry.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:13:19 INF [TCP] connected lAddr=127.0.0.1:44220 rAddr=copilot-proxy.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:13:22 INF [TCP] connected lAddr=127.0.0.1:56424 rAddr=copilot-proxy.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:13:23 INF [TCP] connected lAddr=127.0.0.1:56430 rAddr=copilot-proxy.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:13:23 INF [TCP] connected lAddr=127.0.0.1:56444 rAddr=copilot-proxy.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:13:24 INF [TCP] connected lAddr=127.0.0.1:56446 rAddr=copilot-proxy.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:13:24 INF [TCP] connected lAddr=127.0.0.1:56454 rAddr=copilot-proxy.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:13:25 INF [TCP] connected lAddr=127.0.0.1:56462 rAddr=copilot-telemetry.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:13:27 INF [TCP] connected lAddr=127.0.0.1:56474 rAddr=copilot-proxy.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:13:28 INF [TCP] connected lAddr=127.0.0.1:56490 rAddr=copilot-proxy.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:13:28 INF [TCP] connected lAddr=127.0.0.1:56502 rAddr=copilot-proxy.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:13:28 INF [TCP] connected lAddr=127.0.0.1:56518 rAddr=copilot-proxy.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:13:28 INF [TCP] connected lAddr=127.0.0.1:56530 rAddr=copilot-proxy.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:13:28 INF [TCP] connected lAddr=127.0.0.1:56536 rAddr=copilot-proxy.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:13:29 INF [TCP] connected lAddr=127.0.0.1:56552 rAddr=copilot-proxy.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=🔰 选择节点[🇺🇲 美国A01]
+14:14:05 INF [TCP] connected lAddr=127.0.0.1:47314 rAddr=safebrowsing.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]

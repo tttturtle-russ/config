@@ -1,0 +1,36 @@
+files:
+  - url: ""
+    time: 1690101755824.yml
+    name: config.yaml
+    selected: []
+    mode: rule
+  - time: 1690101798478.yml
+    name: iKuuu_V2.yaml
+    url: https://api.sub-200.club/link/vO3CDdZJU2eUflTa?clash=3&extend=1
+    selected:
+      - name: GLOBAL
+        now: DIRECT
+      - name: ☁️ Cloudflare
+        now: 🔰 选择节点
+      - name: 🇨🇳 国内网站
+        now: DIRECT
+      - name: 🌏 爱奇艺&哔哩哔哩
+        now: DIRECT
+      - name: 🎮 Steam 客户端地区
+        now: DIRECT
+      - name: 🐟 漏网之鱼
+        now: 🔰 选择节点
+      - name: 📺 动画疯
+        now: 🔰 选择节点
+      - name: 🔰 选择节点
+        now: 🇺🇲 美国A01
+      - name: 🛑 拦截广告
+        now: REJECT
+    interval: 6
+    subInfo:
+      upload: 126026824
+      download: 50871914299
+      total: 322122547200
+      expire: 1696515899
+    homeWeb: ""
+index: 1

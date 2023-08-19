@@ -1,0 +1,13 @@
+20:52:11 INF [API] listening addr=127.0.0.1:43099
+20:52:11 INF [Inbound] Mixed(http+socks) listening addr=127.0.0.1:7890
+20:52:11 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:53186 rAddr=api.github.com:443 proxy=DIRECT
+20:52:11 INF [Config] initial compatible provider name=🇨🇳 国内网站
+20:52:11 INF [Config] initial compatible provider name=🎮 Steam 客户端地区
+20:52:11 INF [Config] initial compatible provider name=🛑 拦截广告
+20:52:11 INF [Config] initial compatible provider name=📺 动画疯
+20:52:11 INF [Config] initial compatible provider name=☁️ Cloudflare
+20:52:11 INF [Config] initial compatible provider name=🌏 爱奇艺&哔哩哔哩
+20:52:11 INF [Config] initial compatible provider name=🔰 选择节点
+20:52:11 INF [Config] initial compatible provider name=🐟 漏网之鱼
+20:52:16 INF [TCP] connected lAddr=127.0.0.1:57918 rAddr=obsproject.com:443 mode=rule rule=DomainKeyword(.) proxy=🐟 漏网之鱼[🇺🇲 美国A01]
+20:53:52 INF [TCP] connected lAddr=127.0.0.1:42988 rAddr=api.github.com:443 mode=rule rule=DomainKeyword(github) proxy=🔰 选择节点[🇺🇲 美国A01]

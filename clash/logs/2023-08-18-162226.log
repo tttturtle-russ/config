@@ -1,0 +1,16 @@
+16:22:26 INF [API] listening addr=127.0.0.1:45083
+16:22:26 INF [Inbound] Mixed(http+socks) listening addr=127.0.0.1:7890
+16:22:26 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:50426 rAddr=api.github.com:443 proxy=DIRECT
+16:22:27 INF [Config] initial compatible provider name=🎮 Steam 客户端地区
+16:22:27 INF [Config] initial compatible provider name=🛑 拦截广告
+16:22:27 INF [Config] initial compatible provider name=🌏 爱奇艺&哔哩哔哩
+16:22:27 INF [Config] initial compatible provider name=📺 动画疯
+16:22:27 INF [Config] initial compatible provider name=🔰 选择节点
+16:22:27 INF [Config] initial compatible provider name=🐟 漏网之鱼
+16:22:27 INF [Config] initial compatible provider name=☁️ Cloudflare
+16:22:27 INF [Config] initial compatible provider name=🇨🇳 国内网站
+16:22:32 INF [TCP] connected lAddr=127.0.0.1:50440 rAddr=www.google.cn:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+16:22:32 INF [TCP] connected lAddr=127.0.0.1:50452 rAddr=www.google.cn:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+16:22:32 INF [TCP] connected lAddr=127.0.0.1:50476 rAddr=www.google.cn:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+16:22:32 INF [TCP] connected lAddr=127.0.0.1:50464 rAddr=www.google.cn:443 mode=rule rule=DomainKeyword(google) proxy=🔰 选择节点[🇺🇲 美国A01]
+16:23:22 INF [TCP] connected lAddr=127.0.0.1:50268 rAddr=mirrors.ustc.edu.cn:443 mode=rule rule=DomainSuffix(cn) proxy=🇨🇳 国内网站[DIRECT]

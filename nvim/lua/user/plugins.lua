@@ -79,7 +79,7 @@ return packer.startup(function(use)
   use { "RRethy/vim-illuminate" }
 
 -- Colorschemes
-  use { "ellisonleao/gruvbox.nvim" }
+  -- use { "ellisonleao/gruvbox.nvim" }
   -- use { "luisiacc/gruvbox-baby" }
   -- use { "folke/tokyonight.nvim" }
   -- use { "lunarvim/darkplus.nvim" }
@@ -87,7 +87,7 @@ return packer.startup(function(use)
   -- use { "savq/melange" }
   -- use { "EdenEast/nightfox.nvim" }
   -- use { "navarasu/onedark.nvim" }
-
+    use { 'catppuccin/nvim' ,as = "catppuccin" }
 -- CMP 
   use { "hrsh7th/nvim-cmp" }
 	use { "hrsh7th/cmp-nvim-lsp" }
@@ -176,6 +176,8 @@ return packer.startup(function(use)
         run = function() vim.fn["mkdp#util#install"]() end,
     })
 
+-- Github Copilot
+    use 'github/copilot.vim'
     use({ "iamcco/markdown-preview.nvim", run = "cd app && npm install", setup = function() vim.g.mkdp_filetypes = { "markdown" } end, ft = { "markdown" }, })
 	-- Automatically set up your configuration after cloning packer.nvim
 	-- Put this at the end after all plugins

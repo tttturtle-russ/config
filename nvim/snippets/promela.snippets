@@ -1,5 +1,30 @@
 # if statement
 snippet if "if statement" b
     if 
-    ::$1 -> $0;
-    if;
+    :: $1 -> $0;
+    fi;
+
+snippet do "do statement" b
+	do
+	:: $1 -> $0;
+	od;
+
+snippet init "init process" b
+	init {
+		$0
+	}
+
+snippet pri "printf" b
+	printf("$0");
+
+snippet proc "proctype" b
+	proctype $0 () {
+	
+	}
+
+snippet ato "atomic" b
+	atomic {
+		$0
+	}
+
+
